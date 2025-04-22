@@ -26,6 +26,9 @@ A simple and responsive user registration form built with **HTML**, **CSS**, and
 | Email     | Must be a valid email format        |
 | Password  | Minimum of 6 characters             |
 
+
+You can visit @ https://sudharshan-prakash.github.io/Registration-Form/
+
 The form cannot be submitted unless all fields are valid.
 
 ---
